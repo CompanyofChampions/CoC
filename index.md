@@ -45,22 +45,3 @@ To prove and verify this challenge, you need to beat and record/stream all boss 
 If you are streaming or recording an entire run (start to finish), please provide timestamps as the mods are expecting to check boss kills. Not taking the time to do so will just cause the verification to have a longer wait.
 
 |* _Unless you are going for a run with the typical 'Any%' rule set. This is only applicable to speedrunning._
-
-### Speediest Roles
-
-You can obtain a special role if you are the fastest player in the server to complete a SL1 or BL4 run in any of the games -all bosses-. However, if someone beats your time, you will lose the role.
-
-#### Speediest Players Hall of Fame
-
-
-| _Demon's Souls_ | Unsafekibble716 (unsafekibble716#1208) | [2:19:54](https://www.youtube.com/watch?v=iziZoq3-cFs)  |
-| _Dark Souls I_ | Evoryn (Evoryn#4281) | [3:48:37](https://www.twitch.tv/videos/284101512) - Remastered  |
-| _Dark Souls II_ | N/A | N/A |
-| _Dark Souls III_ | Decc (decc#0001) | [1:34:54](https://www.youtube.com/watch?v=dpZPqGeFn48) |
-| _Bloodborne_ | N/A | N/A |
-
-Since there is not a time set for DS2 or BB, any time quicker than 4:00:00 for BB will count. For DS2, any time quicker than 7:00:00 will count.
-
-Decc did his speedrun prior to the Ringed City DLC. The role is up for grabs for the first person to do all bosses including the aforementioned DLC in less than 2:10:00.
-
-> These are 100% independent from legendary runs. Check [this link](http://speedsouls.com/Main_Page) for help and information on speedrunning.
