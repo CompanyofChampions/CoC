@@ -17,16 +17,16 @@ _Dark Souls: Remastered_ and _Dark Souls II: Scholar of the First Sin_ have the 
 
 ### Banned Criteria
 
-- Any kind of help via summoning players or NPCs is not acceptable. The run will be disqualified because of this. This rule doesn't mean you can't do Sirris' or Anri's quest since you are summoned into their world for their quests (these are not your bossfights, so they don't count). This is also the case for Biorr of the Twin Fangs vs the Penetrator.
+- Summoning players / NPCs is not acceptable. The run will be disqualified if this is done. This rule doesn't mean you can't do Sirris' or Anri's quest as you are summoned into their world for their quests (these are not your bossfights, so they don't count). This is also the case for Biorr of the Twin Fangs vs the Penetrator.
 
-- Unless required by the criteria for a run, it is not allowed to obtain items before it is usually possible. For example, giving yourself a boss weapon as soon as you start a normal SL1/BL4 run is unacceptable and will result in a disqualification.
+- Unless required by the criteria for a run, it is not allowed to obtain items before it is usually possible. For example, spawning in a boss weapon as soon as you start a normal SL1/BL4 run is unacceptable and will result in a disqualification.
    - Exceptions: 
      - Ask the server mods for discussion and/or permission if there is the possibility of such.
-     - Normally it is acceptable to use Cheat Engine to give yourself items required for a Legend run. For example, giving yourself a torch as soon as you start the game to complete a Torch-only run.
+     - Normally it is acceptable to use Cheat Engine to give yourself items required for a Legend run. For example, spawning a Soldering Iron as soon as you start the game to begin a Soldering Iron only run.
 
-- Cheating and cheesing during gameplay is strictly not allowed. Turning on iframes, tumblebuffing, kills outside the bosses' arenas, messing with the stats, breaking the AI so it becomes unable to harm you... Any of this, or anything similar, will result in a disqualification. Please ask if you are uncertain about what is allowed and what isn't.
+- Cheating and cheesing during gameplay is strictly not allowed. Turning on iframes, tumblebuffing, kills outside the bosses' arenas, messing with the stats, breaking the AI so it becomes unable to harm you... Any of this, or anything similar, will result in a disqualification. Please ask a mod if you are uncertain about what is allowed and what isn't.
 
-### Proof for Champion of Dark Souls I, II or III | Demon's Souls | Bloodborne | Nioh
+### Proof for Champion of Dark Souls I, II or III | Demon's Souls | Bloodborne | Nioh |
 
 **You need to beat all boss fights -including DLCs- then show proof.**
 
@@ -40,10 +40,10 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 
 
 ### Proof for Legend of Dark Souls I, II or III | Demon's Souls | Bloodborne | Nioh 
-> Legends runs are SL1 runs with one or more handicaps to make it harder. Check the games' pages for a list of what counts, and what doesn't. If you have any doubt, ask the server mods.
+> Legend runs are Champion runs with one or more significant handicaps. Check the games' pages for a list of what counts, and what doesn't. If you have any doubt, ask the server mods.
 
-To prove and verify this challenge, you need to beat and record/stream all boss fights -including DLCs*- no matter what. It is also recommended to start recordings before you enter the boss fog. A recording where the fight is ongoing and the boss has lost significant health or has advanced through phases will not be accepted, and consequently disqualified.
+To prove and verify this challenge, you need to beat and record/stream all boss fights - _including DLCs*_. It is also recommended to start recordings before you enter the boss fog. A recording where the fight is ongoing and the boss has lost significant health or has advanced through phases will not be accepted, disqualifying the run.
 
-If you are streaming or recording an entire run (start to finish), please provide timestamps as the mods are expecting to check boss kills. Not taking the time to do so will just cause the verification to have a longer wait.
+If you are streaming or recording an entire run (start to finish), please provide timestamps as mods are expecting to check boss kills. Not taking the time to do so will just cause the verification to have a longer wait.
 
 |* _Unless you are going for a run with the typical 'Any%' rule set. This is only applicable to speedrunning._
