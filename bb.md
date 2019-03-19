@@ -17,7 +17,7 @@ layout: default
 
 ## BB - BL4 Requirements
 
-**For BL4 Good Hunter we require all bosses to be defeated with screenshots/videos of the following:**
+**For BL4 Champion we require all bosses to be defeated with screenshots/videos of the following:**
 
 * Every Boss lamp
 * Stats
@@ -32,7 +32,7 @@ layout: default
 
 [Parallax's Opinions on Bosses During BL4 NG+6:](https://www.reddit.com/r/bloodborne/comments/6xw068/every_boss_in_the_game_beaten_at_level_4_in_new/)
 
-## Acceptable BL4 Great One Criteria
+## Acceptable BL4 Legend Criteria
 
 - BL4 NG+6
 - BL4 NG+ & No Chalice Dungeon Gems or Runes

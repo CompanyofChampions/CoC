@@ -17,13 +17,14 @@ layout: default
 
 ## DeS - SL1 Requirements
 
-For SL1 Slayer we require all bosses to be defeated with screenshots/videos of the following:
+For SL1 Champion we require all bosses to be defeated with screenshots/videos of the following:
 
+* Stats
 * All Bosses - Empty arena / Souls
 
 _If you used any boss souls for items, show them as well for proof. It is strongly recommended to not use boss souls just for souls, as you are effectively destroying your own SL1 proof._
 
-## Acceptable SL1 Monumental Criteria
+## Acceptable SL1 Legend Criteria
 
 - SL1 NG+5
 - SL1 No Rolling/Blocking/Parrying
@@ -40,7 +41,7 @@ _If you used any boss souls for items, show them as well for proof. It is strong
   - Ignore dying to Journey to the Nexus’ Dragon God.
 
 
-## SL1 Monumental Banned Equipment and Strategies
+## SL1 Legend Banned Equipment and Strategies
 
 * Morion Blade. It's too strong. Allowed on NG+5.
 * Clever Rat Ring on base NG. It's too strong.
