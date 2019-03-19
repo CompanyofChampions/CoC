@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Company of Champions Guidelines
-> Roles are obtainable for all listed games. Click the list below to go to the different game guidelines.(or Index).
+> Roles are obtainable for all listed games. Click the list below to go to the different game guidelines (or Index).
 
  * [Index](./index.html).
  * [Demon's Souls](./des.html).
