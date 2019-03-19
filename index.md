@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Soulsborne SL1/BL4 Guidelines
+# Company of Champions Guidelines
 > Roles are obtainable for all Soulsborne games. Click the list below to go to the different game guidelines.
 
  * [Demon's Souls](./des.md).
