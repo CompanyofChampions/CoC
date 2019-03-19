@@ -5,13 +5,13 @@ layout: default
 # Company of Champions Guidelines
 > Roles are obtainable for all listed games. Click the list below to go to the different game guidelines.
 
- * [Demon's Souls](./des.md).
- * [Dark Souls or Dark Souls: Remastered](./ds1.md).
- * [Dark Souls II or Dark Souls II: Scholar of the First Sin](./ds2.md).
+ * [Demon's Souls](./des.html).
+ * [Dark Souls or Dark Souls: Remastered](./ds1.html).
+ * [Dark Souls II or Dark Souls II: Scholar of the First Sin](./ds2.html).
  * [Dark Souls III](./ds3.html).
- * [Bloodborne](./bb.md).
- * [Nioh](./nioh.md).
- * [Hollow Knight](./hollowknight.md).
+ * [Bloodborne](./bb.html).
+ * [Nioh](./nioh.html).
+ * [Hollow Knight](./hollowknight.html).
  
 _Dark Souls: Remastered_ and _Dark Souls II: Scholar of the First Sin_ have the same requirements as _Dark Souls_ and _Dark Souls II_. All are allowed.
 
