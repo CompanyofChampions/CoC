@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Company of Champions Guidelines
-> Roles are obtainable for all Soulsborne games. Click the list below to go to the different game guidelines.
+> Roles are obtainable for all listed games. Click the list below to go to the different game guidelines.
 
  * [Demon's Souls](./des.md).
  * [Dark Souls or Dark Souls: Remastered](./ds1.md).
