@@ -18,7 +18,6 @@ layout: default
 ## Nioh - Champion Criteria
 
 **Nioh Champion requires all unique bosses to be defeated with screenshots/videos of the following:**
-
 * Every empty boss arena
 * Stats
 
