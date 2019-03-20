@@ -35,7 +35,7 @@ layout: default
 ## Acceptable BL4 Legend Criteria
 
 - BL4 NG+6
-- BL4 NG+ & No Chalice Dungeon Gems or Runes
+- BL4 NG+ & No Chalice Dungeon Gems / Runes
 - BL4 +0 Weapons
 - BL4 Fist only
 - BL4 Torch only

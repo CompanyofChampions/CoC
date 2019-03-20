@@ -289,8 +289,12 @@ p {
   margin: 10px 0 15px 0; }
 
 footer p {
-  color: #f2f2f2; }
+  color: #ffffff; }
 
+footer img {
+  width: 1px;
+  height: 1px;
+}
 a {
   text-decoration: none;
   color: #0F79D0;
@@ -507,7 +511,7 @@ Full-Width Styles
   padding-top: 40px; }
 
 #footer_wrap {
-  background: #212121; }
+  background: #212121;  }
 
 /*******************************************************************************
 Small Device Styles

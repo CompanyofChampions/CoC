@@ -36,7 +36,9 @@ To prove and verify your run, you must beat and video record/stream all boss fig
 
 If you are streaming or recording an entire run (start to finish), please provide timestamps as mods must check individual boss kills. Failure to do so will cause verification of your run to take much longer.
 
-|* _In the exception of Any% runs'. This is only applicable to speedrunning._
+<div style="text-align:center">
+| * _In the exception of Any% runs'. This is only applicable to speedrunning._ |
+</div>
 
 <h2 style="text-align: center;"> Banned Criteria</h2>
 
