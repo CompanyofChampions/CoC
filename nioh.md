@@ -58,11 +58,11 @@ Likewise, please confirm your run with a mod if you decide to begin a Master run
 - All equipment and methods banned in Legend runs
 
 - Additionally, you may not use the following:
- - Living Weapon (though one may be equipped)
- - Magic
- - Ninjutsu 
- - Ranged Weapons
- - Any items, consumable or otherwise
+  - Living Weapon (though one may be equipped)
+  - Magic
+  - Ninjutsu 
+  - Ranged Weapons
+  - Any items, consumable or otherwise
 
 >Note: there may be runs that qualify for Legend / Master roles (such as no rolling/blocking/parrying runs); whether these qualify will be determined by mods on a case by case basis. If in doubt, ask!
 
