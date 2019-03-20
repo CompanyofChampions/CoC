@@ -51,7 +51,7 @@ Advices provided by Xerieh:
 - SL1 & CoC Broken Straight Sword only
 - SL1 & CoC Broken Weapon
 - SL1 & CoC No Rolling/ Blocking/Parrying/Red Tearstone Ring
-  - Red Tearstone Ring is banned on base NG runs. Allowed on higher NG runs.
+  - Red Tearstone Ring is banned for base NG runs. Permitted for NG+ and above.
 - SL1 & CoC Perma-Death
   - Record the full run.
 - SL1 & CoC No Hit & Any%
