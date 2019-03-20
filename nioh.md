@@ -48,7 +48,7 @@ If you feel that you have an idea for a run that meets requirements, check with 
 
 ## Nioh - Master Criteria
 
-As with Legend, the only currently accepted Nioh Master run is
+The only currently accepted Nioh Master run is
 - Way of the Nioh / NG+4 / Max NG 
 
 Likewise, please confirm your run with a mod if you decide to begin a Master run.
