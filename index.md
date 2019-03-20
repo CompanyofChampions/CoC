@@ -13,18 +13,21 @@ layout: default
  * [Nioh](./nioh.html).
  * [Hollow Knight](./hollowknight.html).
  
-_Dark Souls: Remastered_ and _Dark Souls II: Scholar of the First Sin_ have the same requirements as _Dark Souls_ and _Dark Souls II_. All are allowed.
+_Dark Souls: Remastered_ and _Dark Souls II: Scholar of the First Sin_ have the same requirements as _Dark Souls_ and _Dark Souls II_. All versions of either game are permitted.
 
 ### Banned Criteria
 
-- Summoning players / NPCs is not acceptable. The run will be disqualified if this is done. This rule doesn't mean you can't do Sirris' or Anri's quest as you are summoned into their world for their quests (these are not your bossfights, so they don't count). This is also the case for Biorr of the Twin Fangs vs the Penetrator.
+- Summoning players / NPCs is not acceptable. The run will be disqualified if this is done. 
+  - This rule doesn't mean you can't do Sirris' or Anri's quest as you are summoned into their world for their quests (these are not bossfights, so they don't count). 
+  - Also the case for Biorr of the Twin Fangs vs the Penetrator.
 
 - Unless required by the criteria for a run, it is not allowed to obtain items before it is usually possible. For example, spawning in a boss weapon as soon as you start a normal SL1/BL4 run is unacceptable and will result in a disqualification.
    - Exceptions: 
      - Ask the server mods for discussion and/or permission if there is the possibility of such.
-     - Normally it is acceptable to use Cheat Engine to give yourself items required for a Legend run. For example, spawning a Soldering Iron as soon as you start the game to begin a Soldering Iron only run.
+     - Normally it is acceptable to use Cheat Engine to give yourself items required for a Legend run. 
+	 > Spawning a Soldering Iron as soon as you start the game to begin a Soldering Iron only run is perfectly acceptable.
 
-- Cheating and cheesing during gameplay is strictly not allowed. Turning on iframes, tumblebuffing, kills outside the bosses' arenas, messing with the stats, breaking the AI so it becomes unable to harm you... Any of this, or anything similar, will result in a disqualification. Please ask a mod if you are uncertain about what is allowed and what isn't.
+- Cheating and cheesing during gameplay is strictly forbidden. Enabling iframes, tumblebuffing, kills outside the bosses' arenas, alteration of your stats, breaking the AI so it becomes unable to harm you... Any of this, or anything similar, will result in a disqualification. Please ask a mod if you are uncertain about what is allowed and what isn't.
 
 ### Proof for Champion of Dark Souls I, II or III | Demon's Souls | Bloodborne | Nioh |
 
