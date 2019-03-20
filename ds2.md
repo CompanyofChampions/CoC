@@ -61,8 +61,8 @@ Advices provided by Xerieh:
 - SL1 & CoC Fist only
   - Vanquisher's Seal is not allowed. Show your rings / equipment screen after killing the bosses.
 - SL1 & CoC +0 Weapons/+0 Armor/Normal Upgrade Path/No Bleed/No Toxic/No Poison
-  - Red Tearstone Ring is not allowed on this run. Beats the whole purpose of doing little damage.
-  - Offensive pyromancies are not allowed on this run. Beats the whole purpose of doing little damage.
+  - Red Tearstone Ring is not permitted.
+  - Offensive pyromancies are not permitted.
 
 
   
