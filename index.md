@@ -35,7 +35,7 @@ layout: default
 
 <h2 style="text-align: center;"> Champion of Dark Souls I, II, III | Demon's Souls | Bloodborne | Nioh | </h2>
 
-**You need to beat all boss fights - including DLCs - then show proof.**
+**You are required to beat all boss fights - including DLCs - then show proof.**
 
 You have **two** choices in order to show proof:
 
