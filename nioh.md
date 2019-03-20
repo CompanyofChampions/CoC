@@ -28,7 +28,7 @@ Optional sidequest bosses are required only if unique.
 
 ## Nioh - Legend Criteria
 
-As of the time of writing, the singlularly accepted Legend run for Nioh is 
+As of the time of writing, the sole Legend run for Nioh is 
 - Way of the Nioh / NG+4 / Max NG 
 
 If you feel that you have an idea for a run that meets requirements, check with a mod beforehand for confirmation.
@@ -50,7 +50,7 @@ If you feel that you have an idea for a run that meets requirements, check with 
 The only currently accepted Nioh Master run is
 - Way of the Nioh / NG+4 / Max NG 
 
-Likewise, please confirm your run with a mod if you decide to begin a Master run.
+Please confirm your run with a mod if you decide to begin a Master run.
 
 
 ## Nioh - Master Banned Equipment
