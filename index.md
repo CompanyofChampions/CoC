@@ -1,8 +1,12 @@
 ---
 layout: default
 ---
+<div style="text-align:center">
+<img src="/images/cochighres.png" >
+</div>
 
-# Company of Champions Guidelines
+<h1 style="text-align: center;"> Company of Champions Guidelines </h1>
+
 > Roles are obtainable for all listed games. Click the list below to go to the different game guidelines.
 
  * [Demon's Souls](./des.html).
