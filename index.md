@@ -47,7 +47,7 @@ If you are streaming or recording an entire run (start to finish), please provid
 - Unless required by the criteria for a run, it is forbidden to obtain items before it is usually possible. For example, spawning in a boss weapon as soon as you start a normal SL1/BL4 run is unacceptable and will result in a disqualification.
    - Exceptions: 
      - Ask the server mods for discussion and/or permission in exceptional cases.
-     - Normally it is acceptable to use Cheat Engine to give yourself items required for a Legend run. 
-	 > Spawning a Soldering Iron before Iudex Gundyr for a Soldering Iron only run is perfectly acceptable.
+     - It is permitted to use Cheat Engine to give yourself items required for a Legend run. 
+	 > Spawning a Soldering Iron before Iudex Gundyr, for a Soldering Iron only run, is perfectly acceptable.
 
 - Cheating and cheesing during gameplay is strictly forbidden. Enabling iframes, tumblebuffing, kills outside the bosses' arenas, alteration of your stats, breaking the AI so it becomes unable to harm you... Any of this, or anything similar, will result in a disqualification. Please ask a mod if you are uncertain about what is allowed and what isn't.
