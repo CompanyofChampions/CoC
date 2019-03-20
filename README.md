@@ -1,4 +1,4 @@
-https://companyofchampions.github.io/CoC/
+## https://companyofchampions.github.io/CoC/
 
 A community-supported repository regarding the Company of Champions Discord server's verification of challenge runs.
 
