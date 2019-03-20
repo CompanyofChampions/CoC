@@ -45,6 +45,7 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 
 * Morion Blade. It's too strong. Allowed on NG+5.
 * Clever Rat Ring on base NG. It's too strong.
+- Clever Rat Ring is permitted against False King Allant
 * Second Chance. It's cheap, granting a second opportunity in the middle of a fight.
 * Biorr of the Twin Fangs against Penetrator. Just don't unlock his cell in 1-2.
 * Thief Ring against flamelurker, old hero, storm king, and dragon god.
