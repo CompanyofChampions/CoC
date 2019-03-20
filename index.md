@@ -17,7 +17,7 @@ layout: default
  * [Nioh](./nioh.html).
  * [Hollow Knight](./hollowknight.html).
  
->_Dark Souls: Remastered_ and _Dark Souls II: Scholar of the First Sin_ have the same requirements as _Dark Souls_ and _Dark Souls II_. All versions of either game are permitted.
+>_Dark Souls: Remastered_ and _Dark Souls II: Scholar of the First Sin_ have the same requirements as _Dark Souls_ and _Dark Souls II_. Any versions of these games are permitted.
 
 <h2 style="text-align: center;"> Banned Criteria</h2>
 
