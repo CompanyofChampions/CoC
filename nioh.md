@@ -15,18 +15,19 @@ layout: default
 
 **Please remember to check necessary global requirements (e.g. recording for a legend run). Read the Index page.**
 
-## Nioh - Champion Criteria
+## Nioh - Champion
 
 **Nioh Champion requires all unique bosses to be defeated with screenshots/videos of the following:**
-* Every empty boss arena
 * Stats
+* Every empty boss arena
+
 
 Optional sidequest bosses are required only if unique. 
 - For example, Tachibana Muneshige is required, but the Two Kings is not.
 
 > There is technically no banned equipment. Such banned equipment would not show in stat screen photo for proof. It is strongly suggested that you avoid gear that isnt from NG cycle, and to avoid the overuse of Living Weapon.
 
-## Nioh - Legend Criteria
+## Nioh - Legend 
 
 As of the time of writing, the sole Legend run for Nioh is 
 - Way of the Nioh / NG+4 / Max NG 
@@ -45,7 +46,7 @@ If you feel that you have an idea for a run that meets requirements, check with 
 
 >Example: You may headshot an opponent and Quickdraw them as part of strategy, but that cannot be sum total of your tactics.
 
-## Nioh - Master Criteria
+## Nioh - Master 
 
 The only currently accepted Nioh Master run is
 - Way of the Nioh / NG+4 / Max NG 
