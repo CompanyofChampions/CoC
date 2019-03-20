@@ -19,10 +19,10 @@ layout: default
 
 **For BL4 Champion we require all bosses to be defeated with screenshots/videos of the following:**
 
-* Every Boss lamp
+* Every Boss Lamp
 * Stats
-* Video of Moon Presence kill / Screenshot of your player character waking up in the Clinic (NG+) with 230k blood echoes.
-  - It is recommendable, because of this, to start the final fight with 0 blood echoes (preventing problems in the remote case you are able to one-shot it all).
+* Video/screenshot of Moon Presence kill / your player character waking up in the Clinic (NG+) with 230k blood echoes.
+  - It is recommended to start the final fight with 0 blood echoes (preventing problems in the remote case you are able to one-shot it all).
 
 ## BB - BL4 Resources
 
