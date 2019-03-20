@@ -2,7 +2,7 @@
 layout: default
 ---
 <div style="text-align:center">
-<img src="images/cochighres.png" >
+<img src="images/cochighres.png">
 </div>
 
 <h1 style="text-align: center;"> Company of Champions Guidelines </h1>
