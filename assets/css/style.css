@@ -211,6 +211,14 @@
 .highlight {
   background-color: #f8f8f8; }
 
+.textbox {
+  font-style: italic;
+  margin: auto;
+  width: 50%;
+  border: 3px black;
+  padding: 5px;
+  text-align: justify;
+}
 /*******************************************************************************
 MeyerWeb Reset
 *******************************************************************************/
@@ -266,7 +274,8 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 36px;
-  font-weight: 700; }
+  font-weight: 700;
+   }
 
 h2 {
   padding-bottom: 10px;

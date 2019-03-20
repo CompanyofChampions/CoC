@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <h1 style="text-align: center;"> General Guidelines </h1>
 
  Roles are obtainable for all listed games. Choose a link below to visit the game's guidelines.
@@ -16,7 +15,7 @@ layout: default
  
 >_Dark Souls: Remastered_ and _Dark Souls II: Scholar of the First Sin_ have the same requirements as _Dark Souls_ and _Dark Souls II_. Any versions of these games are permitted.
 
-<h2 style="text-align: center;"> Champion of Dark Souls I, II, III | Demon's Souls | Bloodborne | Nioh | </h2>
+<h2 style="text-align: center;"> Champion of Dark Souls I / II / III | Demon's Souls | Bloodborne | Nioh | </h2>
 
 **You are required to beat all boss fights - including DLCs - then show proof.**
 
@@ -28,7 +27,7 @@ You have **two** choices in order to show proof:
 
 _If you used any boss souls for items, show them as well for proof. It is strongly recommended not to use boss souls for souls; you are destroying your own SL1 proof._
 
-<h2 style="text-align: center;"> Legend of Dark Souls I, II or III | Demon's Souls | Bloodborne | Nioh  </h2>
+<h2 style="text-align: center;"> Legend of Dark Souls I / II / III | Demon's Souls | Bloodborne | Nioh  </h2>
 
 > Legend runs are Champion runs with one or more significant handicaps. Check the individual pages for comprehensive lists of which restrictions count, and those not considered to be challenging enough. If you have any doubt, ask the server mods.
 
@@ -36,9 +35,11 @@ To prove and verify your run, you must beat and video record/stream all boss fig
 
 If you are streaming or recording an entire run (start to finish), please provide timestamps as mods must check individual boss kills. Failure to do so will cause verification of your run to take much longer.
 
-<div style="text-align:center">
-| * _In the exception of Any% runs'. This is only applicable to speedrunning._ |
-</div>
+
+    * With the exception of Any% runs - only applicable to speedruns.
+
+
+
 
 <h2 style="text-align: center;"> Banned Criteria</h2>
 

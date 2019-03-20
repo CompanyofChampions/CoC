@@ -289,12 +289,8 @@ p {
   margin: 10px 0 15px 0; }
 
 footer p {
-  color: #ffffff; }
+  color: #f2f2f2; }
 
-footer img {
-  width: 1px;
-  height: 1px;
-}
 a {
   text-decoration: none;
   color: #0F79D0;
@@ -329,7 +325,12 @@ img {
   max-width: 739px;
   padding: 5px;
   margin: 10px 0 10px 0;
-   }
+  border: 1px solid #ebebeb;
+  box-shadow: 0 0 5px #ebebeb;
+  -webkit-box-shadow: 0 0 5px #ebebeb;
+  -moz-box-shadow: 0 0 5px #ebebeb;
+  -o-box-shadow: 0 0 5px #ebebeb;
+  -ms-box-shadow: 0 0 5px #ebebeb; }
 
 p img {
   display: inline;
@@ -511,7 +512,7 @@ Full-Width Styles
   padding-top: 40px; }
 
 #footer_wrap {
-  background: #212121;  }
+  background: #212121; }
 
 /*******************************************************************************
 Small Device Styles
