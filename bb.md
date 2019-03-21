@@ -2,38 +2,22 @@
 layout: default
 ---
 
-# Company of Champions Guidelines
-> Roles are obtainable for all listed games. Click the list below to go to the different game guidelines (or Index).
+<h1 style="text-align: center;"> Bloodborne </h1>
 
- * [Index](./index.html).
- * [Demon's Souls](./des.html).
- * [Dark Souls or Dark Souls: Remastered](./ds1.html).
- * [Dark Souls II or Dark Souls II: Scholar of the First Sin](./ds2.html).
- * [Dark Souls III](./ds3.html).
- * [Nioh](./nioh.html).
- * [Hollow Knight](./hollowknight.html).
+**Please remember to check necessary global requirements (e.g. recording for a legend run).** 
 
-**Please remember to check necessary global requirements (e.g. recording for a legend run). Read the Index page.**
+ - **Read the Home page.**
 
-## BB - BL4 Requirements
+<h2 style="text-align: center;"> Champion Requirements </h2>
 
 **For BL4 Champion we require all bosses to be defeated with screenshots/videos of the following:**
 
-* Every Boss Lamp
 * Stats
+* Every Boss Lamp
 * Video/screenshot of Moon Presence kill / your player character waking up in the Clinic (NG+) with 230k blood echoes.
   - It is recommended to start the final fight with 0 blood echoes (preventing problems in the remote case you are able to one-shot it all).
 
-## BB - BL4 Resources
-
-[Video by ymfah](https://www.youtube.com/watch?v=AzFks3VhU3A) showing tricks, routing and where to find upgrade materials.
-
-[Easy Chalice Gems.](https://drive.google.com/file/d/1ffQccio5iZzxVDJxdCoSKO4FfMqhSmOo/view)
-
-[Parallax's Opinions on Bosses During BL4 NG+6:](https://www.reddit.com/r/bloodborne/comments/6xw068/every_boss_in_the_game_beaten_at_level_4_in_new/)
-
-## Acceptable BL4 Legend Criteria
-
+<h2 style="text-align: center;"> Legend Criteria </h2>
 - BL4 NG+6
 - BL4 NG+ & No Chalice Dungeon Gems / Runes
 - BL4 +0 Weapons
@@ -49,6 +33,13 @@ layout: default
 - BL4 Blindfolded
   -  Not allowed to see the screen, you need a clear webcam stream to prove.
  
-## BL4 Great One Banned Equipment
+<h2 style="text-align: center;"> Legend Banned Equipment </h2>
 
 * Chalice Dungeon gems or Runes in base NG. They're too strong.
+<h2 style="text-align: center;"> Useful Resources </h2>
+[Video by ymfah](https://www.youtube.com/watch?v=AzFks3VhU3A) showing tricks, routing and where to find upgrade materials.
+
+[Easy Chalice Gems.](https://drive.google.com/file/d/1ffQccio5iZzxVDJxdCoSKO4FfMqhSmOo/view)
+
+[Parallax's Opinions on Bosses During BL4 NG+6:](https://www.reddit.com/r/bloodborne/comments/6xw068/every_boss_in_the_game_beaten_at_level_4_in_new/)
+

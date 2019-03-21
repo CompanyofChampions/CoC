@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
 body {
   margin: 0;
   padding: 0;
@@ -36,4 +37,8 @@ nav a {
   color: #fff;
   display: block;
   transition: .3s background-color;
+}
+
+h2 {
+text-align: centre;
 }

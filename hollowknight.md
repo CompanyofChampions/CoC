@@ -2,27 +2,24 @@
 layout: default
 ---
 
-# Company of Champions Guidelines
-> Roles are obtainable for all listed games. Click the list below to go to the different game guidelines (or Index).
+<h1 style="text-align: center;"> Hollow Knight </h1>
 
- * [Index](./index.html).
- * [Demon's Souls](./des.html).
- * [Dark Souls or Dark Souls: Remastered](./ds1.html).
- * [Dark Souls II or Dark Souls II: Scholar of the First Sin](./ds2.html).
- * [Dark Souls III](./ds3.html).
- * [Bloodborne](./bb.html).
- * [Nioh](./nioh.html).
+**Please remember to check necessary global requirements (e.g. recording for a legend run).** 
 
-**Please remember to check necessary global requirements (e.g. recording for a legend run). Read the Index page.**
+ - **Read the Home page.**
 
-## Hollow Knight - Champion Requirements
+<h2 style="text-align: center;"> Champion Requirements </h2>
 
-* To be added
+- Steel Soul 112%
 
-## Hollow Knight - Legend Criteria
-
-- To be added
+<h2 style="text-align: center;"> Legend Criteria </h2>
+- All Bosses Radiant
  
-## Hollow Knight Legend - Banned Equipment
+<h2 style="text-align: center;"> Master Criteria</h2>
 
-* To be added
+- P5 all bindings
+- Any% No Hit (No Major Glitches)
+- All Bosses Radiant Nail Only
+
+
+

@@ -2,20 +2,14 @@
 layout: default
 ---
 
-# Company of Champions Guidelines
-> Roles are obtainable for all listed games. Click the list below to go to the different game guidelines (or Index).
+<h1 style="text-align: center;"> Nioh </h1>
 
- * [Index](./index.html).
- * [Demon's Souls](./des.html).
- * [Dark Souls or Dark Souls: Remastered](./ds1.html).
- * [Dark Souls II or Dark Souls II: Scholar of the First Sin](./ds2.html).
- * [Dark Souls III](./ds3.html).
- * [Bloodborne](./bb.html).
- * [Hollow Knight](./hollowknight.html).
+**Please remember to check necessary global requirements (e.g. recording for a legend run).** 
 
-**Please remember to check necessary global requirements (e.g. recording for a legend run). Read the Index page.**
+ - **Read the Home page.**
 
-## Nioh - Champion
+<h2 style="text-align: center;"> Champion Requirements </h2>
+
 
 **Nioh Champion requires all unique bosses to be defeated with screenshots/videos of the following:**
 * Stats
@@ -27,14 +21,14 @@ Optional sidequest bosses are required only if unique.
 
 > There is technically no banned equipment. Such banned equipment would not show in stat screen photo for proof. It is strongly suggested that you avoid gear that isnt from NG cycle, and to avoid the overuse of Living Weapon.
 
-## Nioh - Legend 
+<h2 style="text-align: center;"> Legend Criteria </h2>
 
-As of the time of writing, the sole Legend run for Nioh is 
+As of the time of writing, the only Legend run for Nioh is 
 - Way of the Nioh / NG+4 / Max NG 
 
 If you feel that you have an idea for a run that meets requirements, check with a mod beforehand for confirmation.
  
-## Nioh - Legend Banned Equipment
+<h2 style="text-align: center;"> Legend Banned Equipment </h2>
 
 - You may not use a weapon significantly stronger than ~300+50 (weapon only); a 310+57 weapon will probably not be a problem, but a 320+92 will be. If in doubt, ask a mod.
 
@@ -46,15 +40,14 @@ If you feel that you have an idea for a run that meets requirements, check with 
 
 >Example: You may headshot an opponent and Quickdraw them as part of strategy, but that cannot be sum total of your tactics.
 
-## Nioh - Master 
+<h2 style="text-align: center;"> Master Criteria </h2>
 
 The only currently accepted Nioh Master run is
 - Way of the Nioh / NG+4 / Max NG 
 
 Please confirm your run with a mod if you decide to begin a Master run.
 
-
-## Nioh - Master Banned Equipment
+<h2 style="text-align: center;"> Master Banned Equipment </h2>
 - All equipment and methods banned in Legend runs
 
 - Additionally, you may not use the following:
