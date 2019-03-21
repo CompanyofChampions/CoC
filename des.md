@@ -4,9 +4,9 @@ layout: default
 
 <h1 style="text-align: center;"> Demon's Souls </h1>
 
-**Please remember to check necessary global requirements (e.g. recording for a Legend run).** 
+**Please remember to check necessary global requirements (e.g. recording for a legend run).** 
 
-**Read the Home page.**
+ - **Read the Home page.**
 
 <h2 style="text-align: center;"> Champion Requirements </h2>
 For SL1 Champion we require all bosses to be defeated with screenshots/videos of the following:
