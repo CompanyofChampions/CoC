@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <h1 style="text-align: center;"> General Guidelines </h1>
 
  Roles are obtainable for all listed games. Choose a link to read the game's guidelines.
