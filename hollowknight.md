@@ -14,9 +14,9 @@ layout: default
 
 <h2 style="text-align: center;"> Legend Criteria </h2>
 - All Bosses Radiant
+- P5 no bindings
  
 <h2 style="text-align: center;"> Master Criteria</h2>
-
 - P5 all bindings
 - Any% No Hit (No Major Glitches)
 - All Bosses Radiant Nail Only
