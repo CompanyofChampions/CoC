@@ -3,17 +3,10 @@ layout: default
 ---
 <h1 style="text-align: center;"> General Guidelines </h1>
 
- Roles are obtainable for all listed games. Choose a link below to visit the game's guidelines.
-
- * [Demon's Souls](./des.html).
- * [Dark Souls or Dark Souls: Remastered](./ds1.html).
- * [Dark Souls II or Dark Souls II: Scholar of the First Sin](./ds2.html).
- * [Dark Souls III](./ds3.html).
- * [Bloodborne](./bb.html).
- * [Nioh](./nioh.html).
- * [Hollow Knight](./hollowknight.html).
+ Roles are obtainable for all listed games. Choose a link to read the game's guidelines.
  
 >_Dark Souls: Remastered_ and _Dark Souls II: Scholar of the First Sin_ have the same requirements as _Dark Souls_ and _Dark Souls II_. Any versions of these games are permitted.
+
 
 <h2 style="text-align: center;"> Champion of Dark Souls I / II / III | Demon's Souls | Bloodborne | Nioh | </h2>
 
@@ -36,21 +29,24 @@ To prove and verify your run, you must beat and video record/stream all boss fig
 If you are streaming or recording an entire run (start to finish), please provide timestamps as mods must check individual boss kills. Failure to do so will cause verification of your run to take much longer.
 
 
-    * With the exception of Any% runs - only applicable to speedruns.
+- *With the exception of Any% runs - only applicable to speedruns.
 
 
 
 
 <h2 style="text-align: center;"> Banned Criteria</h2>
 
-- Summoning players / NPCs is not acceptable. The run will be disqualified if this is done. 
-  - This rule doesn't mean you can't do Sirris' or Anri's quest as you are summoned into their world for their quests (these are not bossfights, so they don't count). 
+- Summoning players / NPCs is not acceptable. The run will be disqualified if this is found to have occured. 
+  
+  - You may participate in Sirris / Anri's quests as they have no significant effect on bosses. You cannot summon them in to assist you with boss fights.
+  
   - Also the case for Biorr of the Twin Fangs vs the Penetrator.
 
 - Unless required by the criteria for a run, it is forbidden to obtain items before it is usually possible. For example, spawning in a boss weapon as soon as you start a normal SL1/BL4 run is unacceptable and will result in a disqualification.
-   - Exceptions: 
-     - Ask the server mods for discussion and/or permission in exceptional cases.
-     - It is permitted to use Cheat Engine to give yourself items required for a Legend run. 
+     
+	 - Ask the server mods for discussion and/or permission in exceptional cases.
+     
+	 - It is permitted to use Cheat Engine to give yourself items required for a Legend run. 
 	 > Spawning a Soldering Iron before Iudex Gundyr, for a Soldering Iron only run, is perfectly acceptable.
 
 - Cheating and cheesing during gameplay is strictly forbidden. Enabling iframes, tumblebuffing, kills outside the bosses' arenas, alteration of your stats, breaking the AI so it becomes unable to harm you... Any of this, or anything similar, will result in a disqualification. Please ask a mod if you are uncertain about what is allowed and what isn't.
