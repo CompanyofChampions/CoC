@@ -9,7 +9,7 @@ layout: default
 >_Dark Souls: Remastered_ and _Dark Souls II: Scholar of the First Sin_ have the same requirements as _Dark Souls_ and _Dark Souls II_. Any versions of these games are permitted.
 
 
-<h2 style="text-align: center;"> Champion of Dark Souls I / II / III | Demon's Souls | Bloodborne | Nioh | </h2>
+<h2 style="text-align: center;"> Champion of Dark Souls I / II / III | Demon's Souls | Bloodborne | Nioh  </h2>
 
 **You are required to beat all boss fights - including DLCs - then show proof.**
 
