@@ -245,27 +245,44 @@ table {
   border-collapse: collapse;
   border-spacing: 0; }
 
+/* Navbar formatting */
+
+html, body {
+padding: 0;
+margin: 0;
+}
+
 .container {
 width: 100%;
 margin: 0 auto;
+text-align: center;
+display: flex;
+    justify-content: center;
+    width: 100%;
+	background-color: #444;
+	border-top: 1px solid #000000; 
+	border-bottom: 1px solid #000000; 
 }
+
 
 nav ul {
 	margin:0;
-	padding: 0;
     list-style: none;
 	background-color: #444;
 	text-align: centre;
-	border-top: 1px solid #000000;
 }
+	
 
 nav li {
 	display: inline-block;
-	margin-left: 70px;
-	padding-left: 61px;
 	font-size: 1.2em;
+	padding-left: 20px;
+	padding-right: 20px
   line-height: 40px;
+  padding-top:0.5px
   height: 40px;
+  text-align: center;
+
 }
 
 nav a {
@@ -273,6 +290,10 @@ nav a {
   color: #fff;
   display: block;
   transition: .3s background-color;
+  padding: 5px
+}
+nav li a:hover {
+  background-color: #111;
 }
 
 /*******************************************************************************
