@@ -25,7 +25,7 @@ layout: default
 - BL4 Torch only
   - Either Torch counts.
 - BL4 No Rolling/Quickstepping/Blocking/Beast Blood Pellets
-  - Parrying is allowed, especially versus Gehrman.
+  >Parrying is allowed
 - BL4 Perma-Death
   - Record the full run.
 - BL4 No Hit run & Any%

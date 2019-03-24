@@ -55,7 +55,7 @@ _If you used any boss souls for items, show them as well for proof. It is strong
 <h2 style="text-align: center;"> Legend Banned Equipment </h2>
 
 * Red Tear Stone Ring. It's too strong. Allowed only for combined runs at NG+6, e.g. NG+6 no roll.
-* Offensive Pyromancy spells. Power Within, Great Combustion, Black Flame, Fireorb and Great Chaos Fireball are all too strong.
+* Pyromancy spells. Power Within, Great Combustion, Black Flame, Fireorb and Great Chaos Fireball are all too strong.
 * Dragon Torso Stone fist weapon. Overpowered for low damage runs, pointless for other challenges.
 * Silver Pendant. Not needed and trivializes one of the harder bosses.
 

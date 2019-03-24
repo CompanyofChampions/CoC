@@ -8,7 +8,7 @@ layout: default
 
  - **Read the Home page.**
  
- > If you have an idea for a run that is not listed, contact the mods to discuss it's inclusion.
+ > If you have an idea for a run that is not listed, contact the mods to discuss its' inclusion.
 
 <h2 style="text-align: center;"> Champion Requirements </h2>
 
